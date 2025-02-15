@@ -7,10 +7,11 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width =40px></picture> **About me**
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width = 350px></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width = 250px></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Web%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-Spanish and English-dodgerblue" />
+  <img src="https://komarev.com/ghpvc/?username=GenserDev&color=blue" alt="watching_count" />
 </p>
 
 - 🎓 Computer Science Engineering Student.
@@ -48,9 +49,16 @@
   
 </span>
 
-## Contact me!
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"><b> Contact me!</b>
 <span>
-  <a href="genserdev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;     
+<a href="mailto:genserdev@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/feed/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
   
 </span>
 
