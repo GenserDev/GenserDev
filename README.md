@@ -10,7 +10,7 @@
 <picture> <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width = 350px></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Web%20Development-dodgerblue" />
-  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-Spanish and English-dodgerblue" />
 </p>
 
 - 🎓 Computer Science Engineering Student.
